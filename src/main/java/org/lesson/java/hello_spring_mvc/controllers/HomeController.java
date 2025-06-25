@@ -1,7 +1,5 @@
 package org.lesson.java.hello_spring_mvc.controllers;
 
-import java.io.ObjectInputStream.GetField;
-
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
